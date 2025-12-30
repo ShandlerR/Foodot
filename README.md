@@ -1,2 +1,2 @@
-[ ] One thing
-[ ] And another
+- [ ] One thing
+- [ ] And another
